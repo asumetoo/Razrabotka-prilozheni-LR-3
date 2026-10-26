@@ -1,0 +1,10 @@
+{
+  "name": "lab3-avia",
+  "version": "1.0.0",
+  "description": "Лабораторная работа №3. Авиакомпании и авиарейсы",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "bootstrap": "5.3.3"
+  }
+}

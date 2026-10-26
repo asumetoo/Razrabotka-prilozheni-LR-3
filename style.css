@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background: #f4f7fa;
+}
+
+.airline-header {
+    padding: 20px 0;
+    color: white;
+    background: #198df1;
+}
+
+.airline-header-title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.airline-card {
+    width: 320px;
+    max-width: 100%;
+}
+
+.airline-card .card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.airline-details {
+    max-width: 900px;
+}
+
+.detail-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
